@@ -1,4 +1,3 @@
-# Python_Learning
-
-#用于个人学习Python学习及做笔记。
-#It is used for personal learning Python learning and note-taking.
+# Python_Learning:
+# ----用于学习Python语言,存放相关笔记及代码。
+# ----It is used to learn the Python language, store relevant notes and code。
