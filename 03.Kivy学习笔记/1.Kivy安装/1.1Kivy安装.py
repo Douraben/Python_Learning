@@ -21,7 +21,7 @@ class MyApp(App):
 
     def build(self):
 
-        return Label(text='Hello world, Kivy installed successfully!\n\nMy Kivy learning path began.')
+        return Label(text='你好 世界 Hello world, Kivy installed successfully!\n\nMy Kivy learning path began.')
 
 
 if __name__ == '__main__':
