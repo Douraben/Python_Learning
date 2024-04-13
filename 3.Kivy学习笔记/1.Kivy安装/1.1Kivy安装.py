@@ -11,20 +11,3 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "kivy[base]" kivy_exampl
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "kivy[media]"
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple " kivy[full]"
 """
-
-from kivy.app import App
-from kivy.uix.label import Label
-from kivy.uix.button import Button
-
-
-class MyApp(App):
-
-    def build(self):
-
-        return Label(text='Hello world, Kivy installed successfully!\n\nMy Kivy learning path began.')
-
-
-if __name__ == '__main__':
-
-    MyApp().run()
-
