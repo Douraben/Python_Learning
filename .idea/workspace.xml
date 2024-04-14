@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="900b45ff-ca50-450f-b64f-54156bbfd586" name="更改" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/file_w.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/json_file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/json_file22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类/DataBase/magic_spider_v2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程/DataBase/magic_spider_v2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python中常用库及安装卸载方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ubantu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/平板上安装code FA.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.爬虫学习笔记/1.SpiderMain/DataBase/MagicSpider.db" beforeDir="false" afterPath="$PROJECT_DIR$/02.爬虫学习笔记/01.MagicSpider_函数/DataBase/MagicSpider.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.爬虫学习笔记/1.SpiderMain/DataBase/MagicSpider.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/02.爬虫学习笔记/01.MagicSpider_函数/DataBase/MagicSpider.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +36,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Douraben &lt;153195738+douraben @users.noreply.github.com&gt;" />
+        <option value="LaBen &lt;153195738+doulaben@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;La-Ben&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Douraben"
   }
-}</component>
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="00b5f689-62ad-47d4-8d1e-f1643c9940f4" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/La-Ben/Python_Learning.git",
-    "accountId": "00b5f689-62ad-47d4-8d1e-f1643c9940f4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/La-Ben/Python_Learning.git&quot;,
+    &quot;accountId&quot;: &quot;00b5f689-62ad-47d4-8d1e-f1643c9940f4&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -51,26 +77,42 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1.1Kivy安装 (1).executor": "Run",
     "Python.1.1Kivy安装.executor": "Run",
     "Python.1.2Kivy.executor": "Run",
+    "Python.10.1.读取文件.executor": "Run",
+    "Python.10.2写入文件.executor": "Run",
+    "Python.10.3异常.executor": "Run",
+    "Python.10.4存储数据JSON.executor": "Run",
+    "Python.12.1多线程.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.1正则表达式.executor": "Run",
+    "Python.13.2正则表达式之元字符的匹配.executor": "Run",
     "Python.7.2whlie循环简介.executor": "Run",
     "Python.7.3使用while循环处理列表和字典.executor": "Run",
+    "Python.MagicSpider_Main (1).executor": "Run",
+    "Python.MagicSpider_Main (2).executor": "Run",
+    "Python.MagicSpider_Main (3).executor": "Run",
+    "Python.MagicSpider_Main.executor": "Run",
     "Python.kivy.executor": "Run",
+    "Python.数据类型.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "G:/Python/Python_Learning",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Python\Python_Learning\01.Python学习笔记\10.文件和异常处理\file" />
       <recent name="G:\Python\Python_Learning\3.Kivy学习笔记\1.Kivy安装" />
       <recent name="G:\Python\Python_Learning\3.Kivy学习笔记" />
       <recent name="G:\Python\Python_Learning\3.Kivy学习笔记\Kivy安装" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.2Kivy">
-    <configuration name="1.1Kivy安装" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.12">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.2Kivy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12.1多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Python学习笔记/12.多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装/1.2Kivy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Python学习笔记/12.多线程/12.1多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.2whlie循环简介" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicSpider_Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Python学习笔记/7.用户输入和while循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Python学习笔记/7.用户输入和while循环/7.2whlie循环简介.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程/MagicSpider_Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.3使用while循环处理列表和字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicSpider_Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Python学习笔记/7.用户输入和while循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Python学习笔记/7.用户输入和while循环/7.3使用while循环处理列表和字典.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类/MagicSpider_Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kivy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="平板上安装code FA.md" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Kivy学习笔记/1.Kivy安装/kivy.py" />
+      <option name="SCRIPT_NAME" value="G:\Python\Python_Learning\平板上安装code FA.md" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.2Kivy" />
-        <item itemvalue="Python.1.1Kivy安装" />
-        <item itemvalue="Python.7.3使用while循环处理列表和字典" />
-        <item itemvalue="Python.7.2whlie循环简介" />
-        <item itemvalue="Python.kivy" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.平板上安装code FA.md" />
+        <item itemvalue="Python.MagicSpider_Main (2)" />
+        <item itemvalue="Python.MagicSpider_Main (3)" />
+        <item itemvalue="Python.12.1多线程" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +240,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="900b45ff-ca50-450f-b64f-54156bbfd586" name="更改" comment="" />
@@ -238,7 +283,143 @@
       <option name="project" value="LOCAL" />
       <updated>1712839528058</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712988883680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712988883680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712988898974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712988898974</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989256135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989256135</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989266336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989266336</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989274046</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989274046</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989437145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989437145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989967461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989967461</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989975627</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989975627</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1712989984131</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989984131</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;3.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py">
+      <option name="closed" value="true" />
+      <created>1713015726985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713015726985</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;3.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py">
+      <option name="closed" value="true" />
+      <created>1713015789980</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713015789980</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;3.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py">
+      <option name="closed" value="true" />
+      <created>1713016559203</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713016559203</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713079640168</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713079640168</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713090843546</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713090843546</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713090880073</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713090880073</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713096513299</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713096513299</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713106202620</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106202620</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +427,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -256,6 +449,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="导入资源" />
     <MESSAGE value="Update README.md" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;3.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
