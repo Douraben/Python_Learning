@@ -14,17 +14,25 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple " kivy[full]"
 
 from kivy.app import App
 from kivy.uix.label import Label
-from kivy.uix.button import Button
+from kivy.uix.boxlayout import BoxLayout
 
 
-class MyApp(App):
+class TestApp(App):
+    def __init__(self, **kwargs):
+        super().__init__()
+        self.background_color = None
+        self.size = None
+        self.pos = None
 
     def build(self):
+        layout = BoxLayout()
+        label = Label(text='Hello, World!')
+        layout.add_widget(label)
+     
+        self.title = 'Magic Spider'
+        self.size = (800, 200)
+        self.background_color = (0.1, 0.1, 0.1, 1)
+        return layout
 
-        return Label(text='你好 世界 Hello world, Kivy installed successfully!\n\nMy Kivy learning path began.')
 
-
-if __name__ == '__main__':
-
-    MyApp().run()
-
+TestApp().run()

@@ -5,3 +5,6 @@ for i in range(100):
     turtle.right(180-36-6)
     turtle.shape("turtle")
 turtle.done()
+
+
+

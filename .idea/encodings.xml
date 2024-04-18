@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="PROJECT" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/spiders/magic_spider.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/start.py" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -1,0 +1,49 @@
+# Scrapy是一个用于爬取网页数据的爬虫框架，它的工作原理是按照一定的规则，自动地抓取网页内容并提取出所需的数据。
+# Scrapy是通过编写Python代码来定义爬虫、编写规则和处理数据的。
+
+
+# 4.1.1 安装twisted依赖包-------------------------
+# pip install twisted;
+
+# 4.1.2 安装Scrapy库-----------------------------
+
+# 4.1.2.1 安装Scrapy-----------------------------
+# pip install scrapy;
+
+# 并却设置scrapy的环境变量，在PATH新建（根据相应目录）：
+# C:\Users\Administrator\AppData\Roaming\Python\Python312\Scripts
+
+# 4.1.3 安装Scrapy-项目创建-----------------------
+# scrapy startproject 项目名称
+
+# 4.1.4引用Scrapy-模块---------------------------
+# import scrapy
+
+# Scrapy的目录结构如下：
+#
+# scrapy.cfg：配置文件，用于定义爬虫的属性，如爬取的URL范围、数据存储位置等。
+# spiders：爬虫文件，用于定义爬虫的规则和逻辑，如如何抓取网页内容以及如何提取数据。
+# init.py：空文件，用于确保spiders目录是一个包目录。
+# myspider.py：定义了一个名为mySpider的爬虫，用于抓取example.com网站的数据。
+
+# items：项目文件，用于定义抓取到的数据的结构，如字段名和数据类型。
+# init.py：空文件，用于确保items目录是一个包目录。
+# myitem.py：定义了一个名为MyItem的字段，用于存储抓取到的数据。
+
+# pipelines：管道文件，用于定义数据处理的方式，如如何将抓取到的数据存储到文件或数据库中。
+# init.py：空文件，用于确保pipelines目录是一个包目录。
+
+# mypipeline.py：定义了一个名为MyPipeline的管道，用于处理抓取到的数据。
+# middlewares：中间件文件，用于定义请求和响应的处理逻辑，如如何处理HTTP请求和响应。
+# init.py：空文件，用于确保middlewares目录是一个包目录。
+# mymiddleware.py：定义了一个名为MyMiddleware的中间件，用于处理HTTP请求和响应。
+
+# extensions：扩展文件，用于定义额外的功能，如日志记录、性能监控等。
+# init.py：空文件，用于确保extensions目录是一个包目录。
+# myextension.py：定义了一个名为MyExtension的扩展，用于实现额外的功能。
+# tests：测试文件，用于编写测试用例来测试爬虫的功能。
+# init.py：空文件，用于确保tests目录是一个包目录。
+# test_mySpider.py：定义了一个名为testMySpider的测试函数，用于测试mySpider爬虫的功能。
+# docs：文档文件，用于编写爬虫的使用说明和代码示例。
+# init.py：空文件，用于确保docs目录是一个包目录。
+# usage.rst：定义了一个名为usage的文档文件，用于介绍爬虫的使用方法。
