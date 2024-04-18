@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="900b45ff-ca50-450f-b64f-54156bbfd586" name="更改" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/file_w.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/json_file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/10.文件和异常处理/file/json_file22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类/DataBase/magic_spider_v2.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程/DataBase/magic_spider_v2.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python中常用库及安装卸载方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ubantu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/平板上安装code FA.md" afterDir="false" />
+      <changelist_data name="LaBen" email="153195738+doulaben@users.noreply.github.com" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/4.1scrapy的安装及导入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/spiders/magic_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100.其他学习笔记/100.1Python中常用库及安装卸载方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100.其他学习笔记/100.2平板上安装code FA.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.爬虫学习笔记/1.SpiderMain/DataBase/MagicSpider.db" beforeDir="false" afterPath="$PROJECT_DIR$/02.爬虫学习笔记/01.MagicSpider_函数/DataBase/MagicSpider.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.爬虫学习笔记/1.SpiderMain/DataBase/MagicSpider.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/02.爬虫学习笔记/01.MagicSpider_函数/DataBase/MagicSpider.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python中常用库及安装卸载方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ubantu.md" beforeDir="false" afterPath="$PROJECT_DIR$/100.其他学习笔记/100.3Ubantu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/平板上安装code FA.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +41,26 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Douraben &lt;153195738+douraben @users.noreply.github.com&gt;" />
-        <option value="LaBen &lt;153195738+doulaben@users.noreply.github.com&gt;" />
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Douraben"
-  }
-}]]></component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="00b5f689-62ad-47d4-8d1e-f1643c9940f4" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/La-Ben/Python_Learning.git&quot;,
-    &quot;accountId&quot;: &quot;00b5f689-62ad-47d4-8d1e-f1643c9940f4&quot;
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Douraben&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0212f9e4-2a87-4187-92f9-c3d4fb62135c" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Douraben/Python_Learning.git",
+    "accountId": "0212f9e4-2a87-4187-92f9-c3d4fb62135c"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -100,7 +101,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "G:/Python/Python_Learning",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
