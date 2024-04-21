@@ -33,6 +33,6 @@ class ScrapyMagicSpiderPipeline:
 
     def close_spider(self, spider):
         # 保存Excel文件
-        self.file_xlsx.save('book_file.xlsx')
+        self.file_xlsx.save('G:/book_file.xlsx')
         # 关闭Excel文件
         self.file_xlsx.close()
