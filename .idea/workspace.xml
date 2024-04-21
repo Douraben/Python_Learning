@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="900b45ff-ca50-450f-b64f-54156bbfd586" name="更改" comment="Merge remote-tracking branch 'origin/main'">
-      <changelist_data name="LaBen" email="153195738+doulaben@users.noreply.github.com" />
+      <change afterPath="$PROJECT_DIR$/01.Python学习笔记/14.数据库/14.1mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/4.3CrawlSpider项目创建及代码编写.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/scrapy_lieyunpro/spiders/lieyunpro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.scrayp学习/4.1scrapy的安装及导入.md" beforeDir="false" afterPath="$PROJECT_DIR$/04.scrayp学习/4.1Scrapy的安装及导入.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.scrayp学习/4.2scrapy项目创建及代码编写.md" beforeDir="false" afterPath="$PROJECT_DIR$/04.scrayp学习/4.2Scrapy项目创建及代码编写.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.scrayp学习/spider_biquge/spider_biquge/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.scrayp学习/spider_biquge/spider_biquge/items.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,26 +91,36 @@
     &quot;Python.MagicSpider_Main (2).executor&quot;: &quot;Run&quot;,
     &quot;Python.MagicSpider_Main (3).executor&quot;: &quot;Run&quot;,
     &quot;Python.MagicSpider_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biquge_spider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biqugespider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.items.executor&quot;: &quot;Run&quot;,
     &quot;Python.kivy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.magic_spider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pipelines.executor&quot;: &quot;Run&quot;,
     &quot;Python.start.executor&quot;: &quot;Run&quot;,
     &quot;Python.数据类型.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Python/Python_Learning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;G:/Python/Python_Learning/04.scrayp学习/scrapy_magic_spider&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ai.codegeex.plugin.settings.ApplicationConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Python\Python_Learning\04.scrayp学习\scrapy_magic_spider" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Python\Python_Learning\04.scrayp学习\scrapy_lieyunpro" />
+      <recent name="G:\Python\Python_Learning\04.scrayp学习\scrapy_lieyunpro\scrapy_lieyunpro" />
+      <recent name="G:\Python\Python_Learning\04.scrayp学习\scrapy_lieyunpro\scrapy_lieyunpro\spiders" />
+      <recent name="G:\Python\Python_Learning\04.scrayp学习\spider_biquge" />
       <recent name="G:\Python\Python_Learning\01.Python学习笔记\10.文件和异常处理\file" />
-      <recent name="G:\Python\Python_Learning\3.Kivy学习笔记\1.Kivy安装" />
-      <recent name="G:\Python\Python_Learning\3.Kivy学习笔记" />
-      <recent name="G:\Python\Python_Learning\3.Kivy学习笔记\Kivy安装" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12.1多线程">
-    <configuration name="12.1多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,77 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01.Python学习笔记/12.多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Python学习笔记/12.多线程/12.1多线程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MagicSpider_Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Learning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.爬虫学习笔记/03.MagicSpider_线程/MagicSpider_Main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MagicSpider_Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Learning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.爬虫学习笔记/02.MagicSpider_实类/MagicSpider_Main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="平板上安装code FA.md" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Learning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\Python\Python_Learning\平板上安装code FA.md" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.scrayp学习/scrapy_lieyunpro/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,10 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.平板上安装code FA.md" />
-        <item itemvalue="Python.MagicSpider_Main (2)" />
-        <item itemvalue="Python.MagicSpider_Main (3)" />
-        <item itemvalue="Python.12.1多线程" />
+        <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +335,47 @@
       <option name="project" value="LOCAL" />
       <updated>1713106202620</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713684466851</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713684466851</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713684978193</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713684978193</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713700223661</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713700223661</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713700369963</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713700369963</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713700473310</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1713700473310</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,19 +383,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>

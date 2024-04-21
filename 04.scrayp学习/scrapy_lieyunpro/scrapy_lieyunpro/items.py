@@ -6,8 +6,12 @@
 import scrapy
 
 
-class SpiderBiqugeItem(scrapy.Item):
+class ScrapyLieyunproItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
-
+    # 定义item字段
+    title = scrapy.Field()
+    author_name = scrapy.Field()
+    date_time = scrapy.Field()
+    content = scrapy.Field()
+    art_url = scrapy.Field()
