@@ -6,24 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="900b45ff-ca50-450f-b64f-54156bbfd586" name="更改" comment="Merge remote-tracking branch 'origin/main'">
       <changelist_data name="LaBen" email="153195738+doulaben@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/4.1scrapy的安装及导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/scrapy_magic_spider/spiders/magic_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.scrayp学习/scrapy_magic_spider/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100.其他学习笔记/100.1Python中常用库及安装卸载方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100.其他学习笔记/100.2平板上安装code FA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Kivy学习笔记/1.Kivy安装/1.1Kivy安装.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python中常用库及安装卸载方法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ubantu.md" beforeDir="false" afterPath="$PROJECT_DIR$/100.其他学习笔记/100.3Ubantu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/平板上安装code FA.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +37,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="0212f9e4-2a87-4187-92f9-c3d4fb62135c" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Douraben/Python_Learning.git",
-    "accountId": "0212f9e4-2a87-4187-92f9-c3d4fb62135c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Douraben/Python_Learning.git&quot;,
+    &quot;accountId&quot;: &quot;0212f9e4-2a87-4187-92f9-c3d4fb62135c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -75,35 +57,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.1.1Kivy安装 (1).executor": "Run",
-    "Python.1.1Kivy安装.executor": "Run",
-    "Python.1.2Kivy.executor": "Run",
-    "Python.10.1.读取文件.executor": "Run",
-    "Python.10.2写入文件.executor": "Run",
-    "Python.10.3异常.executor": "Run",
-    "Python.10.4存储数据JSON.executor": "Run",
-    "Python.12.1多线程.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.13.1正则表达式.executor": "Run",
-    "Python.13.2正则表达式之元字符的匹配.executor": "Run",
-    "Python.7.2whlie循环简介.executor": "Run",
-    "Python.7.3使用while循环处理列表和字典.executor": "Run",
-    "Python.MagicSpider_Main (1).executor": "Run",
-    "Python.MagicSpider_Main (2).executor": "Run",
-    "Python.MagicSpider_Main (3).executor": "Run",
-    "Python.MagicSpider_Main.executor": "Run",
-    "Python.kivy.executor": "Run",
-    "Python.数据类型.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "G:/Python/Python_Learning",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1.1Kivy安装 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.1Kivy安装.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.2Kivy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1.读取文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2写入文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3异常.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.4存储数据JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.1多线程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1正则表达式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.2正则表达式之元字符的匹配.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2whlie循环简介.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3使用while循环处理列表和字典.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MagicSpider_Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MagicSpider_Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MagicSpider_Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MagicSpider_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kivy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.start.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数据类型.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Python/Python_Learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Python\Python_Learning\01.Python学习笔记\10.文件和异常处理\file" />
@@ -112,29 +95,7 @@
       <recent name="G:\Python\Python_Learning\3.Kivy学习笔记\Kivy安装" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12">
-    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Learning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.12.1多线程">
     <configuration name="12.1多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Learning" />
       <option name="ENV_FILES" value="" />
@@ -225,7 +186,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12" />
         <item itemvalue="Python.平板上安装code FA.md" />
         <item itemvalue="Python.MagicSpider_Main (2)" />
         <item itemvalue="Python.MagicSpider_Main (3)" />
